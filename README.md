@@ -12,5 +12,3 @@ Also, PL is writing some articles about data collection, analysis
 and such. I'll include the code here so folks don't have to 
 transcripe it themselves. And, knowning me, I'll make changes 
 to it. 
-
-
